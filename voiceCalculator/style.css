@@ -1,0 +1,30 @@
+.container-xl {
+  margin: 0 auto;
+  width: 500px;
+  border: 1px solid black;
+}
+
+.container {
+  background-color: aqua;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.button {
+  height: 30px;
+  background-color: red;
+  text-align: center;
+}
+
+.screen {
+  height: 70px;
+}
+
+.active {
+  background-color: black;
+}
+
+button {
+  margin: 10px;
+}/*# sourceMappingURL=style.css.map */
